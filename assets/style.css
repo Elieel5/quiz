@@ -107,14 +107,14 @@ h1 {
 .scoreArea button {
   border: 0;
   border-radius: 10px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #015f43;
   color: #ccc;
   padding: 10px;
   margin-top: 20px;
   cursor: pointer;
 }
 .scoreArea button:hover {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: #507255;
 }
 
 footer {
